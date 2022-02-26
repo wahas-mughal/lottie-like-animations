@@ -1,4 +1,4 @@
-import { Text, StyleSheet, Dimensions, TouchableOpacity } from "react-native";
+import { StyleSheet, Dimensions, TouchableOpacity } from "react-native";
 import React, { Component } from "react";
 import LottieView from "lottie-react-native";
 
